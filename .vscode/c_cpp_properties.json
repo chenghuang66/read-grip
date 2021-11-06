@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/chen/ws_ros/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/chen/ws_ros/src/discovery_pnc/controller_base/include/**",
+                "/home/chen/ws_ros/src/discovery_pnc/hybrid_astar/include/**",
+                "/home/chen/ws_ros/src/discovery_pnc/op_planner/include/**",
+                "/home/chen/ws_ros/src/discovery_pnc/op_ros_helpers/include/**",
+                "/home/chen/ws_ros/src/discovery_pnc/op_utility/include/**",
+                "/home/chen/ws_ros/src/discovery_pnc/state_machine_lib/include/**",
+                "/home/chen/ws_ros/src/tset/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++98"
+        }
+    ],
+    "version": 4
+}
